@@ -1,0 +1,7 @@
+find_package(PkgConfig REQUIRED)
+pkg_check_modules(doctest REQUIRED IMPORTED_TARGET doctest)
+file(GLOB test_srcs "${CMAKE_CURRENT_SOURCE_DIR}/*.cpp" "${CMAKE_CURRENT_SOURCE_DIR}/app/*.cpp")
+add_executable(nb ${test_srcs})
+target_link_libraries(nb PRIVATE nanobench PkgConfig::doctest)
+target_include_directories(nb PRIVATE ${CMAKE_CURRENT_SOURCE_DIR})
+add_test(NAME nb COMMAND nb)
