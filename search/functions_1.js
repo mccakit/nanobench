@@ -1,0 +1,8 @@
+var searchData=
+[
+  ['batch_0',['batch',['../classankerl_1_1nanobench_1_1Bench.html#af22a2f90a7f647cf4351bf300bd8d0f5',1,'ankerl::nanobench::Bench']]],
+  ['beginmeasure_1',['beginMeasure',['../classankerl_1_1nanobench_1_1detail_1_1PerformanceCounters.html#a1b86ca0983d4c58bc921979c47dedaf2',1,'ankerl::nanobench::detail::PerformanceCounters']]],
+  ['bench_2',['Bench',['../classankerl_1_1nanobench_1_1Bench.html#a8345f9b4c7881b99497f5c036dde6b79',1,'ankerl::nanobench::Bench::Bench()'],['../classankerl_1_1nanobench_1_1Bench.html#ab7b1a40feb2ce71e4f3a00e99a8272e1',1,'ankerl::nanobench::Bench::Bench(Bench &amp;&amp;other) noexcept'],['../classankerl_1_1nanobench_1_1Bench.html#ace2821780b7340219fec5272e2e348d0',1,'ankerl::nanobench::Bench::Bench(Bench const &amp;other)']]],
+  ['bigo_3',['BigO',['../classankerl_1_1nanobench_1_1BigO.html#a9e602edbd7fc4839fefc7b410991e9b6',1,'ankerl::nanobench::BigO::BigO(char const *bigOName, RangeMeasure const &amp;rangeMeasure, Op rangeToN)'],['../classankerl_1_1nanobench_1_1BigO.html#ae6c09892ac4d9a9f7e756d5366c39c25',1,'ankerl::nanobench::BigO::BigO(std::string bigOName, RangeMeasure const &amp;rangeMeasure, Op rangeToN)'],['../classankerl_1_1nanobench_1_1BigO.html#afa58c8ccec951f6247e67c3fb16f2855',1,'ankerl::nanobench::BigO::BigO(char const *bigOName, RangeMeasure const &amp;scaledRangeMeasure)'],['../classankerl_1_1nanobench_1_1BigO.html#a2ac8dd5c2815ba9e03ecf9a64fd524fe',1,'ankerl::nanobench::BigO::BigO(std::string bigOName, RangeMeasure const &amp;scaledRangeMeasure)']]],
+  ['bounded_4',['bounded',['../classankerl_1_1nanobench_1_1Rng.html#ab151701c737bfa9f05e46314e4be9900',1,'ankerl::nanobench::Rng']]]
+];

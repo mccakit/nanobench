@@ -1,0 +1,9 @@
+<map id="ankerl::nanobench::detail::IterationLogic::Impl" name="ankerl::nanobench::detail::IterationLogic::Impl">
+<area shape="rect" id="Node000001" title=" " alt="" coords="157,116,350,156"/>
+<area shape="rect" id="Node000002" href="$classankerl_1_1nanobench_1_1Bench.html" title="Main entry point to nanobench&#39;s benchmarking facility." alt="" coords="5,5,155,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,50,224,113,221,118,120,55"/>
+<area shape="rect" id="Node000003" href="$classankerl_1_1nanobench_1_1Result.html" title=" " alt="" coords="179,5,328,45"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="256,59,256,116,251,116,251,59"/>
+<area shape="rect" id="Node000004" href="$classankerl_1_1nanobench_1_1Rng.html" title=" " alt="" coords="353,13,527,38"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="410,47,287,118,284,114,407,42"/>
+</map>

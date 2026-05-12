@@ -1,0 +1,13 @@
+var searchData=
+[
+  ['batch_0',['batch',['../classankerl_1_1nanobench_1_1Bench.html#af22a2f90a7f647cf4351bf300bd8d0f5',1,'ankerl::nanobench::Bench']]],
+  ['begin_1',['begin',['../structankerl_1_1nanobench_1_1templates_1_1Node.html#a27c3616a253b847b8d8750863011b83b',1,'ankerl::nanobench::templates::Node']]],
+  ['beginmeasure_2',['beginMeasure',['../classankerl_1_1nanobench_1_1detail_1_1PerformanceCounters.html#a1b86ca0983d4c58bc921979c47dedaf2',1,'ankerl::nanobench::detail::PerformanceCounters']]],
+  ['bench_3',['Bench',['../classankerl_1_1nanobench_1_1Bench.html',1,'ankerl::nanobench::Bench'],['../classankerl_1_1nanobench_1_1Bench.html#a8345f9b4c7881b99497f5c036dde6b79',1,'ankerl::nanobench::Bench::Bench()'],['../classankerl_1_1nanobench_1_1Bench.html#ab7b1a40feb2ce71e4f3a00e99a8272e1',1,'ankerl::nanobench::Bench::Bench(Bench &amp;&amp;other) noexcept'],['../classankerl_1_1nanobench_1_1Bench.html#ace2821780b7340219fec5272e2e348d0',1,'ankerl::nanobench::Bench::Bench(Bench const &amp;other)']]],
+  ['bigo_4',['BigO',['../classankerl_1_1nanobench_1_1BigO.html',1,'ankerl::nanobench::BigO'],['../classankerl_1_1nanobench_1_1BigO.html#a9e602edbd7fc4839fefc7b410991e9b6',1,'ankerl::nanobench::BigO::BigO(char const *bigOName, RangeMeasure const &amp;rangeMeasure, Op rangeToN)'],['../classankerl_1_1nanobench_1_1BigO.html#ae6c09892ac4d9a9f7e756d5366c39c25',1,'ankerl::nanobench::BigO::BigO(std::string bigOName, RangeMeasure const &amp;rangeMeasure, Op rangeToN)'],['../classankerl_1_1nanobench_1_1BigO.html#afa58c8ccec951f6247e67c3fb16f2855',1,'ankerl::nanobench::BigO::BigO(char const *bigOName, RangeMeasure const &amp;scaledRangeMeasure)'],['../classankerl_1_1nanobench_1_1BigO.html#a2ac8dd5c2815ba9e03ecf9a64fd524fe',1,'ankerl::nanobench::BigO::BigO(std::string bigOName, RangeMeasure const &amp;scaledRangeMeasure)']]],
+  ['bounded_5',['bounded',['../classankerl_1_1nanobench_1_1Rng.html#ab151701c737bfa9f05e46314e4be9900',1,'ankerl::nanobench::Rng']]],
+  ['branchinstructions_6',['branchInstructions',['../structankerl_1_1nanobench_1_1detail_1_1PerfCountSet.html#a49b89c264a46046bc383c1cda454daf9',1,'ankerl::nanobench::detail::PerfCountSet']]],
+  ['branchinstructions_7',['branchinstructions',['../classankerl_1_1nanobench_1_1Result.html#acfd17b1ee36f74012ff2408f5868d197a03e81121a6d55a316578e96211a52bf2',1,'ankerl::nanobench::Result']]],
+  ['branchmisses_8',['branchMisses',['../structankerl_1_1nanobench_1_1detail_1_1PerfCountSet.html#a75cc6ba08c8516216badb3340534ef03',1,'ankerl::nanobench::detail::PerfCountSet']]],
+  ['branchmisses_9',['branchmisses',['../classankerl_1_1nanobench_1_1Result.html#acfd17b1ee36f74012ff2408f5868d197ac2fd77917865e816ce5a1ddd762ac5d0',1,'ankerl::nanobench::Result']]]
+];
